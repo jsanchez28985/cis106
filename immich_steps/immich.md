@@ -1,7 +1,7 @@
 # Personal Photo Management Server with Immich
 
 This will be a small "guide" to the installation of Tailscale and Immich.  
-After some time of paying for iCloud storage and recently out of storage for Google Photos I decided to finally get rid of pay-to-play services with Immich.  
+After some time of paying for iCloud storage and recently running out of storage for Google Photos I decided to finally get rid of pay-to-play services by using Immich.  
 
 Immich is essentially a Google Photos clone but is free, open-source software that can be used on a home server to have your very own cloud with unlimited amounts of storage as long as you provide it.  
 
