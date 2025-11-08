@@ -2,7 +2,7 @@
 
 ## Completed work for week 5
 
-* [lab5](lab5.md)
+* [lab5](lab5.md) 
 * [notes5](notes5.md)
 
 ## Practice Screenshots
