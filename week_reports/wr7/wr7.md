@@ -8,4 +8,4 @@
 ### Completed Work
 
 * [lab7](lab7.md)
-* [notes7](notes7.md)
+* [notes7](notes7.md)3
