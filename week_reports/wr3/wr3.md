@@ -2,8 +2,8 @@
 
 ## Completed work for week 3
 
-* [lab3](https://github.com/aecebrian/cis106/tree/main/%20labs/lab3)
-* [notes3](https://github.com/aecebrian/cis106/tree/main/notes/notes3)
+* [lab3](https://github.com/jsanchez28985/cis106/tree/main/labs/lab3)
+* [notes3](https://github.com/jsanchez28985/cis106/tree/main/notes3)
 
 ## Practice screenshots
 
