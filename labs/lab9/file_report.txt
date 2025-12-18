@@ -1,0 +1,15 @@
+All files in my home directory
+access.log, assets, .bash_aliases, .bash_history, .bash_logout,
+.bash-preexec.sh, .bashrc, .cache, cis106, colors, .config, Delight-2.ron,
+Desktop, Documents, .dotnet, Downloads, essentials.sh, fastfetch, file1.txt,
+file.txt, .fonts, .gitconfig, .gnupg, .icons, inClassActivity, lab5files,
+lab5files.zip, .lesshst, list, .local, movies_from_80s, music, Music, nohup.out,
+Pictures, .pki, pop-shell, .profile, project1, Public, sample_files, scripts,
+shell, snap, snapshots, .ssh, .sudo_as_admin_successful, .swp, Templates,
+Videos, .viminfo, .vscode, vscode.sh, wallpapers, website, website_ch1_lab7,
+.wget-hsts, wildcardpractice, wildcards-in-class-activity-instructions.html,
+.wine, .zcompdump, zsh-autocomplete, .zshrc
+Total number of files in my home directory
+24
+Total number of files in my home directory
+39
